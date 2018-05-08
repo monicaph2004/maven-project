@@ -8,4 +8,4 @@
 * @author somebody
 * @version 1.0
 */
-package com.example
+package com.example;
